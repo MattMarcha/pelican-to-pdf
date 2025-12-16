@@ -1,7 +1,7 @@
 To PDF: A Plugin for Pelican
 ====================================================
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/pelican-plugins/to-pdf/main.yml?branch=main)](https://github.com/pelican-plugins/to-pdf/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/MattMarcha/pelican-to-pdf/main.yml?branch=main)](https://github.com/MattMarcha/pelican-to-pdf/actions)
 [![PyPI Version](https://img.shields.io/pypi/v/pelican-to-pdf)](https://pypi.org/project/pelican-to-pdf/)
 [![Downloads](https://img.shields.io/pypi/dm/pelican-to-pdf)](https://pypi.org/project/pelican-to-pdf/)
 ![License](https://img.shields.io/pypi/l/pelican-to-pdf?color=blue)
@@ -50,7 +50,7 @@ Contributions are welcome and much appreciated. Every little bit helps. You can 
 
 To start contributing to this plugin, review the [Contributing to Pelican][] documentation, beginning with the **Contributing Code** section.
 
-[existing issues]: https://github.com/pelican-plugins/to-pdf/issues
+[existing issues]: https://github.com/MattMarcha/pelican-to-pdf/issues
 [Contributing to Pelican]: https://docs.getpelican.com/en/latest/contribute.html
 
 License

@@ -30,9 +30,9 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pelican-plugins/to-pdf"
-"Issue Tracker" = "https://github.com/pelican-plugins/to-pdf/issues"
-"Changelog" = "https://github.com/pelican-plugins/to-pdf/blob/main/CHANGELOG.md"
+"Homepage" = "https://github.com/MattMarcha/pelican-to-pdf"
+"Issue Tracker" = "https://github.com/MattMarcha/pelican-to-pdf/issues"
+"Changelog" = "https://github.com/MattMarcha/pelican-to-pdf/blob/main/CHANGELOG.md"
 "Funding" = "https://donate.getpelican.com/"
 
 [project.optional-dependencies]

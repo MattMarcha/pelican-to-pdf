@@ -15,7 +15,7 @@
       "readme": "README.md",
       "contributing": "CONTRIBUTING.md",
       "license": "GNU Affero General Public License v3|AGPL-3.0",
-      "repo_url": "https://github.com/pelican-plugins/to-pdf",
+      "repo_url": "https://github.com/MattMarcha/pelican-to-pdf",
       "dev_status": "1 - Planning",
       "tests_exist": false,
       "python_version": ">=3.13",
